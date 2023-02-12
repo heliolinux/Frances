@@ -1,4 +1,4 @@
-#O MÍNIMO QUE VOCÊ PRECISA PARA FALAR UM NOVO IDIOMA
+# O MÍNIMO QUE VOCÊ PRECISA PARA FALAR UM NOVO IDIOMA
 (COMO APRENDER A FALAR UM IDIOMA DE MANEIRA RÁPIDA)
 Aprendizagem self-service de idiomas
 
@@ -337,7 +337,7 @@ No caso de descrever coisas, simule voê tendo que descrever algo para que algu�
 
 - Condiçao (idade) - velho, usado, novo, rasgado, quebrado, arrumado, batido, arranhado, consertado, conservado, mal estado, comprei ontem, recém comprado, semi-usado, quase novo...)
 
-###PESSOAS
+### PESSOAS
 
 (Quem é e como é tal pessoa)
 
@@ -395,7 +395,7 @@ Falando de alguém (de mim, de ti, dele/a, deles, de nós)
 
 - Costumes (de sempre fazer coisas, de acreditar, de reagir, cultura, crendices, práticas antigas...)
 
-###FATOS, NOTÍCIAS, ACONTECIMIENTOS
+### FATOS, NOTÍCIAS, ACONTECIMIENTOS
 
 Fofocas... o que aconteceu, e como, e onde, e quando, e quem...
 
