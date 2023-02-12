@@ -1,0 +1,52 @@
+   acidente
+   alergia
+   Antibiótico
+   braço
+   nenê
+  
+   barba
+   sangue
+   corpo
+   cérebro
+   quebrou
+   quebrado
+   câncer
+   gripe
+   tossir
+   morto/a
+   dentista
+   ouvido
+   olho
+   rosto
+   falso/a
+   febre
+   dedo
+   fogo
+   pé
+   arma
+   cabelo
+  
+   mão
+   cabeça
+   dor de cabeça
+   coração
+   hospital
+   magoar
+   perna
+   remédio
+   boca
+   pescoço
+   nariz
+   dor
+   sério
+   chuveiro
+   doente
+   pele
+   ferida
+   estômago
+   dentes
+   garganta
+   dedo do pé
+   banheiro
+   escova de dentes
+   vitaminas

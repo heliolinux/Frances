@@ -1,0 +1,71 @@
+   um
+   dez
+   cem
+   mil
+   um milhao
+   cento e um
+   cento e dez
+   doze
+   treze
+   catorze (quatorze)
+   quinze
+   dezesseis
+   dezessete
+   dezoito
+   dezenove
+   primeiro
+   dois
+   vinte
+   duzentos
+   vinte e um
+   vinte e dois
+   segundo
+   tres
+   trinta
+   terceito
+   quatro
+   quaranta
+   quarto
+   cinco
+   cinquenta
+   seis
+   sessenta
+   sete
+   setenta
+   oito
+   oitenta
+   nove
+   noventa
+   aceitar
+   tudo/todos
+   banco
+   calculadora
+   dinheiro
+   centimetros
+   centavos
+   barato
+   cheque
+   medico
+   dólar
+   seguro (saude/carro)
+   quilo
+   quilometro
+   último
+   menos
+   claro
+   litro
+   muitos
+   muitos
+   medidor
+   milhas
+   dinheiro
+   nenhum
+   uma vez
+   por cima
+   libra peso
+   rico
+   segundo
+   subtrair
+   total
+   duas vezes
+   zero

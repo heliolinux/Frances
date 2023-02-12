@@ -1,0 +1,879 @@
+   Você é americano?
+   Você vai vir hoje à noite?
+   Você está livre hoje à noite?
+   Você vai pegar um avião ou um trem?
+   Você está com fome?
+   Você tem certeza?
+   Você vai trabalhar amanhã?
+   O negócio é bom
+   Saúde!
+   Nevou ontem?
+   Você recebeu meu email?
+   Você tomou seu remédio?
+   Você está melhor?
+   Você vai frequentemente para a Flórida?
+   Você tem um outro?
+   Você sabe onde tem uma loja que vende toalhas?
+  
+   Você gosta daqui?
+   Você gosta deste livro?
+   Você precisa de alguma coisa?
+   Você pratica algum esporte?
+   Você vende remédios?
+   Você estuda inglês?
+   Você quer vir comigo?
+   Você quer ir comigo?
+   Com licença.
+   Me telefona
+   O teu irmão já foi à Califórnia?
+   Você já a encontrou?
+   Você já fez isso antes?
+   Há quanto tempo você está aqui?
+   Há quanto tempo você está na América?
+   Há quanto tempo você vive aqui?
+   Quantos filhos você tem?
+   Quantos idiomas você fala?
+   Quantas pessoas tem na tua família?
+   Quanto você gostaria?
+   Quantos anos você tem?
+   Eu comprei uma camisa ontem.
+   Eu não me sinto bem.
+   Eu tenho dor no meu braço.
+   Eu tenho que lavar minhas roupas.
+   Eu tenho duas irmãs.
+   Eu direi a ele que você ligou.
+   Eu tenho 32.
+   Eu meço 6'2" (1.87m)
+   Eu sou alérgico a frutos do mar.
+   Eu sou americano.
+   Meu tamanho é 8 (38)
+   Eu estou bem, e você?
+   Eu não estou com medo.
+   Eu estou doente.
+   Eu me lembro.
+   Eu falo um pouco de inglês.
+   A tua casa é como esta?
+   O teu marido também é de Boston?
+   Não é muito caro.
+   Eu já estive lá.
+   Vamos dividir.
+   Minha filha está aqui.
+   Meu pai já esteve lá.
+   Meu pai é advogado.
+   Meu/Minha avô/avó morreu no ano passado.
+   Meu nome é John Smith.
+   Meu filho.
+   Me filho estuda computação.
+   Não, eu sou americano.
+   Não, esta é a primeira vez.
+   Nossos filhos estão nos Estados Unidos.
+   Ela é uma especialista/perita.
+   Ela é mais velha que eu.
+   Aquele carro parece o meu.
+   Esta é a Sra. Smith.
+   Esta é a minha mãe.
+   Esta é a primeira vez que eu venho aqui.
+   Nós temos dois garotos e uma garota.
+   O que você vai fazer hoje à noite?
+   Quais são os teus passsatempos?
+   O que você estuda?
+   O que você quer fazer?
+   Em que escola você foi?
+   Qual é o teu filme favorito?
+   Qual é o teu sobrenome?
+   Qual é o teu nome?
+   Onde estão as camisetas?
+   Onde você foi?
+   Onde você aprendeu inglês?
+   Onde você trabalhou antes daqui?
+   Onde você mora?
+   Onde você estava?
+   Quem mandou esta carta?
+   Você gostaria de comprar isto?
+   Teus filhos se comportam muito bem.
+   Sua filha.
+   Você é mais esperto/a que ele.
+   Você fala inglês muito bem.
+   Tem algum show?
+   Você quer ir ao cinema?
+   Você já assistiu este filme?
+   Ele disse que você gosta de assistir filmes.
+   Quanto você mede?
+   O banco é longe?
+   Tem um cinema por aqui?
+  
+   Que tipo de música voce gosta?
+   Qual é a tua comida favorita?
+   A que horas o filme começa?
+   Quer foi teu professor/tua professora?
+   Você gostaria de jantar comigo?
+   Você gostaria de alugar um filme?
+   Posso ter um copo com água por favor?
+   Posso usar teu telefone?
+   Você tem férias?
+   Você tem um telefone de um táxi?
+   Você a conhece?
+   Você sabe onde ela está?
+   Você joga basquete?
+   Encha o tanque por favor.
+   Ele precisa de roupas novas.
+   Quanto custa isso?
+   Quanto custa isto?
+   Eu acredito em você.
+   Eu gostaria do telefone do Hotel Hilton, por favor.
+  
+   Eu gostaria de comprar um cartão telefônico, por favor.
+  
+   Eu gostaria de ir para casa.
+   Eu gostaria de ir às compras.
+   Se você gosta eu posso comprar mais.
+   Eu sou iniciante.
+   Eu estou satisfeito.
+   Estou só brincando.
+   Eu sou solteiro.
+   Eu falo dois idiomas.
+   Eu pensei que ele disse outra coisa.
+   Não é muito longe.
+   Eu geralmente tomo um cafezinho no café da manhã.
+  
+   Desculpe, nós não temos nenhum/a
+   Os livros são caros.
+   Prove-o.
+   O que você quer comprar?
+   Que tamanho?
+   A que horas a loja abre?
+   Quando chega o avião?
+   Onde estã você?
+   Você gostaria de algo para comer?
+   E estou pronunciando corretamente?
+   Você pode me fazer um favor?
+   Você pode me ajudar?
+   Você pode dizer isso novamente por favor?
+   Você pode me mostar?
+   Você pode jagar isso fora pra mim?
+   Alguém fala inglês?
+   Não faça isso.
+   Você acredita nisso?
+   Você tem um lápis?
+   Você fuma?
+   Você fala inglês?
+   Desculpe-me, o que voce disse?
+   Esquece.
+   Como você pronuncia isso?
+   Como você diz isso em inglês?
+   Como você soletra isso?
+   Como você soletra a palavra "Seattle"?
+   Eu sei nadar.
+   Eu posso te ouvir claramente.
+   Eu não me importo.
+   Eu não falo inglês muito bem.
+   Eu acho que não.
+   Eu não entendo o que você está dizendo.
+   Tem ar condicionado neste quarto?
+   Eu acho que você tem muitas roupas.
+   Eu confio em você
+   Eu compreendo agora.
+   Vamos nos encontrar em frente ao hotel.
+   Por favor, sente-se
+   Por favor, fale inglês.
+   Por favor, fale mais devagar.
+   Desculpe, eu não ouvi claramente.
+   Isso significa amigo.
+   Está errado
+   Tente dizê-lo.
+   O que isso significa?
+   O que isso diz?
+   O que significa esta palavra?
+   Qual é a taxa de conversão?
+   De quem é esse livro?
+   Por que você está indo?
+   Quem está rindo?
+   Por que você fez isso?
+   Você tem alergia a alguma coisa?
+   Você está pronto/a?
+   Me telefona
+   Você me mandou flores?
+   Você vende pilhas?
+   Eu não me importo.
+   Eu desisto.
+   Eu sofrí um acidente.
+   Eu estou gripado.
+   Eu tenho um/uma no meu carro.
+   Eu fiz este bolo.
+   Eu sou professor/a.
+   Eu tenho meu próprio negócio.
+   Eu ainda tenho muito que fazer.
+   Eu ainda não decidí.
+   Depende do tempo.
+   Está muito frio hoje.
+   Minha bagagem está perdida.
+   Meu estômago dói.
+   Minha garganta está inflamada.
+   Meu relógio foi roubado.
+   Tome este remédio.
+   O acidente aconteceu no cruzamento.
+   Houve um acidente de carro.
+   Onde posso trocar dólares?
+   Onde você trabalha?
+   Onde fica o hospital mais próximo?
+   Onde fica o correio?
+   E você?
+   Algo mais? / Mais alguma coisa?
+   Eles são iguais? / São as mesmas coisas?
+   Você está com medo?
+   Você vai ao casamento deles?
+   Você é casado?
+   Você está bem?
+   Você está doente?
+   Atrás do banco
+   Posso emprestar algum dinheiro?
+   Pode me dar a conta por favor?
+   Você poderia ligar mais tarde?
+   Você poderia me ligar mais tarde?
+   Você pode carregarr isso pra mim?
+   Você pode consertar isso?
+   Você pode me dar um exemplo?
+   Você poderia falar mais alto por favor?
+   Você sabe nadar?
+   Você gosta da escola?
+   Você aceita dólares?
+   Você tem namorada?
+   Você tem compromisso?
+   Você está com um problema?
+   Você ouviu isso?
+   Você sabe como chegar no Hotel Marriott?
+   Você sabe o que isso significa?
+   Você sabe onde posso pegar um táxi?
+   Você sabe onde estão os meus óculos?
+   Você gosta dos teus colegas de trabalho?
+   Você precisa de mais alguma coisa?
+   Você entende?
+   Me dê a caneta.
+   Como você sabe?
+   Como ela está?
+   Quanto tempo demora?
+   Quantos/quantas
+   Quanto custa?
+   Eu tenho um monte de coisas pra fazer.
+   Em 30 minutos.
+   Alguém mais está vindo?
+   Está tudo OK?
+   Está frio lá fora?
+   É longe daqui?
+   Está quente?
+   Está chovendo?
+   Tem algo mais barato?
+   O teu filho está aqui?
+   Eu deveria esperar?
+   O grande ou o pequeno?
+   Os carros são americanos.
+   Houve algum problema?
+   Você estava na biblioteca ontem à noite?
+   O que você está fazendo?
+   No que você está pensando?
+   Sobre o que vocês dois estão falando?
+   O que você fez ontem à noite?
+   O que você fez ontem?
+   O que você achou?
+   O que eles estudam?
+   O que você tem?
+   O que você acha?
+   O que aconteceu?
+   O que é?
+   O que é isso?
+   O que eu deveria vestir?
+   O que tem nisso?
+   Qual é a temperatura?
+   O que é isto?
+   O que se passa?/O que está acontecendo?
+   De onde você é?
+   Onde posso alugar um carro?
+   Quando aconteceu?
+   Onde você aprendeu?
+   Onde ele está?
+   De onde ele é?
+   Qual é melhor o espaguete ou a salada de frango?
+  
+   Qual você quer?
+   Qual é mais barato?
+   Qual é o/a melhor?
+   Em qual escola ele vai?
+   Quem são eles?
+   Quem você está procurando?
+   Quem fala? (perguntando quem está no telefone)
+  
+   Quem fala?
+   Que é aquele homem alí?
+   Quem te ensinou isso?
+   Por que você disse isso?
+   Você me passa o sal por favor?
+   Você poria isso no carro pra mim?
+   Você pede a ele pra me ligar de volta por favor?
+  
+   Sim.
+   Você tem um carro legal.
+   Você se parece com minha irmã.
+   6 dólares por hora
+   Você está esperando alguém?
+   Você trabalha hoje?
+   Me traga a minha camisa por favor
+   Você gosta de assistir TV?
+   Você gosta do teu chefe?
+   Você já acabou de estudar?
+   Ele é engenheiro
+   Ele é um trabalhador duro.
+   Ele trabalha numa empresa em Nova Iorque.
+   Há quanto tempo você trabalha aqui?
+   Quantas horas por semana voce trabalha?
+   Quanto dinheiro você tem?
+   Como está o tempo?
+   Como foi a viagem?
+   Eu esqueço.
+   Estou bem.
+   Estou pronto.
+   Eu ainda tenho muitas coisas pra comprar.
+   Eu já vi.
+   No que ele trabalha?
+   No que teu pai trabalha?
+   No que você trabalha?
+   No que teus pais trabalham?
+   Qual é o problema?
+   A que horas você vai para o trabalho todos os dias?
+  
+   Quando você chega nos EUA?
+   Quando você sai do trabalho?
+   Onde você colocou?
+   Onde doi?
+   Onde você quer ir?
+   Venha aqui.
+   Geralmente neva em Massachussetts?
+   Você acha que vai chover hoje?
+   Você acha que vai chover amanhã?
+   Como estão os negócios?
+   Está fechado?
+   É possível?
+   Está pronto?
+   Custa 20 dólares por hora.
+   Dói aqui.
+   É longe daqui.
+   Vai ser quente hoje.
+   Fica ao norte daqui.
+   É ali pra cima.
+   Está chovendo.
+   É muito tarde/Tarde demais.
+   É muito importante.
+   Vai chegar logo.
+   As estradas estão escorregadias.
+   Qual é a diária? (hotel)
+   Como vai estar o tempo amanhã?
+   Cuidado
+   Cuidado ao dirigir
+   Você pode me traduzir isso?
+   Chicagoé bem diferente de Boston.
+   Não se preocupe.
+   Todo mundo sabe isso.
+   Está tudo pronto.
+   Excelente.
+   De tempos em tempos
+   Boa ideia
+   Ele gosta muito.
+   Socorro!
+   Ele volta logo
+   Ele está certo.
+   Ele está aborrecido.
+   Ele é muito famoso.
+   Como vai você?
+   Como vai o trabalho?
+   Depressa!
+   Eu já comí.
+   Eu não te ouço.
+   Eu gostaria de ir caminhar.
+   Eu não sei como usar isto.
+   Eu não gosto dele.
+   Eu não gosto.
+   Eu não falo muito bem.
+   Eu não entendo.
+   Eu não quero.
+   Eu não quero isso.
+   Eu não quero te incomodar.
+   Eu me sinto bem.
+   Se você precisa de minha ajuda, por favor me diga.
+  
+   Eu saio do trabalho às 6.
+   Eu tenho dor de cabeça.
+   Eu espero que você e tua esposa tenham uma boa viagem.
+  
+   Eu sei.
+   Eu gosto dela.
+   Eu te ligo quando sair.
+   Eu volto mais tarde.
+   Eu pagarei.
+   Eu levo/Eu fico (com alguma coisa)
+   Eu te levo ao ponto de ônibus.
+   Eu perdí meu relógio.
+   Eu amo você.
+   Eu sou um americano.
+   Eu estou limpando meu quarto.
+   Eu estou com frio.
+   Eu estou indo te buscar
+   Eu vou sair.
+   Eu estou bem, e você?
+   Estou feliz.
+   Estou com fome.
+   Sou casado.
+   Eu não estou ocupado.
+   Eu não sou casado.
+   Eu ainda não estou pronto.
+   Eu não tenho certeza.
+   Lamento, está esgotado.
+   Estou com sede.
+   Estou muito ocupado. Não tenho tempo agora.
+   Eu preciso trocar de roupas.
+   Eu preciso ir pra casa.
+   Eu só quero um lanche.
+   O Sr. Smith é americano?
+   É o suficiente?
+   Eu acho isso muito bom
+   Eu acho isso bem saboroso.
+   Eu pensei que as roupas eram mais baratas.
+   É mais longe que 2 milhas.
+   Eu estou aqui há dois dias.
+   Eu ouví que o Texas é um belo lugar.
+   Eu nunca ví isso antes.
+  
+   Só um pouquinho.
+   Só um momento.
+   Deixa-me ver/checar.
+   Deixa-me pensar sobre isso.
+   Vamos dar uma olhada.
+   Vamos praticar inglês.
+   Posso falar com a Sra. Smith por favor?
+   Mais do que isso.
+   Não faz mal/Não importa.
+   Da próxima vez.
+   Não.
+   Bobagem/Que nada.
+   Não, obrigado/a.
+   Nada mais/Mais nada
+   Não recentemente.
+   Não ainda/Ainda não.
+   Claro.
+   OK.
+   Por favor, preencha este formulário.
+   Por favor me leve para este endereço
+   Por favor escreva aqui.
+   Mesmo?/De verdade?
+   Bem aqui.
+   Bem alí.
+   Te vejo mais tarde.
+   Te vejo amanhã.
+   Te vejo à noite.
+   Ela é bonita.
+   Me perdoe te importunar.
+   Pare!
+   Arrisque.
+   Leve pra fora.
+   Diga-me.
+   Obrigado/a por tudo.
+   Obrigado/a pela tua ajuda
+   Obrigado/a.
+   Obrigado/a senhorita.
+   Obrigado/a senhor.
+   Muito obrigado/a.
+   Está ótimo (aparência)
+   Tudo bem.
+   Chega (é o suficiente)
+   Está bom.
+   É isso.
+   Isso cheira ruim.
+   Isso não é justo
+   Isso não está certo.
+   Está certo.
+   Isso é muito mal/ruim.
+   Isso é muito (quantidade)
+   Isso é muito (quantidade)
+   O livro está debaixo da mesa.
+   Eles voltam logo.
+   Eles são os mesmos.
+   Eles estão bem ocupados.
+   Isto não funciona.
+   Isto é muito difícil.
+   Isto é muito importante.
+   Prove.
+   Muito bem, obrigado/a.
+   Nós gostamos muito.
+   Você anotaria a mensagem por favor?
+   Sim, de verdade.
+   Você é bonito/a
+   Você é muito gentil/legal.
+   Você é bem esperto.
+   Tuas coisas estão todas aqui.
+   Certamente!
+   Boa tarde
+   Boa noite senhor.
+   Boa sorte
+   Bom dia
+   Ótimo
+   Feliz aniversário
+   Tenha uma boa viagem
+   Alô.
+   Prazer em te conhecer.
+   Por favor me ligue.
+   Mais ou menos 300 quilometros
+   Passagem só de ida
+   Você vai ajudá-la?
+   Passagem ida e volta
+   A que horas?
+   Posso marcar a consulta para a próxima quarta-feira?
+  
+   Você poderia repetir por favor?
+   Esta estrada vai para Nova Iorque?
+   Você tem dinheiro suficiente?
+   Você sabe cozinhar?
+   Você sabe o que isso diz?
+   Você quer que eu venha te pegar?
+   Siga-me
+   Daqui para aí.
+   Siga em frente.
+   Você já chegou?
+   Você já esteve em Boston?
+   Como eu chego lá?
+   Como eu chego na rua Daniel?
+   Como eu chego na Embaixada Americana?
+   Quanto tempo demora de carro?
+   Quanto tempo demora pra chegar na Georgia?
+   Quanto tempo demora o voo?
+   Como foi o filme?
+   Eu gostaria de fazer um telefonema.
+   Eu gostaria de fazer uma reserva.
+   coisa.
+   Eu levo aquele também.
+   Eu estou indo agora mesmo.
+   Eu vou pra casa em quatro dias.
+   Estou partindo amanhã.
+   Estou procurando o correio.
+   Esta caneta e tua?
+   Quisera eu tivesse um.
+   Um bilhete para Nova Iorque por favor (passagem)
+  
+   Só ida ou ida e volta?
+   Por favor, fale mais devagar.
+   Por favor me leve para o aeroporto.
+   Por alí (naquela direção)
+   O avião parte às 17h30.
+   Eles chegaram no sábado.
+   Vire-se
+   Vire a esquerda
+   Vire a direita
+   A que horas você vai a rodoviária?
+   Quando isso aconteceu?
+   Quando você chegou em Boston?
+   Quando ele chega?
+   Quando chega?
+   Quando abre o banco?
+   Quando parte o ônibus?
+   Quando nós chegamos?
+   Quando nós partimos?
+   Onde posso postar isto?
+   De onde ela é?
+   Onde fica o banheiro?
+   Por que não?
+   Você me lembra?
+   11 dólares
+   52 centavos
+   Poucos
+   Pouco/um pouco
+   Chame a polícia
+   Sua esposa gostou da Califórnia?
+   Você tem café?
+   Você tem algo mais barato?
+   Você aceita cartão de crédito?
+   Como você vai pagar?
+   Quantas pessoas tem em Nova Iorque
+   Quanto custam estes brincos?
+   Quanto custa por dia?
+   Quanto custa isto?
+   Quanto eu te devo?
+   Quanto custa para ir a Miami?
+   Quanto dinheiro você ganha?
+   Eu gostaria de comer no restaurante da quinta rua.
+  
+   Eu não tenho namorada.
+   Eu não tenho dinheiro.
+   Eu tenho uma reserva.
+   Eu quero a mesma coisa.
+   Eu pagarei o jantar.
+   Eu pagarei os ingressos.
+   Eu tenho 26 anos.
+   Eu preciso praticar meu inglês.
+   Não é?
+   Está OK?
+   Tem alguma correspondência pra mim?
+   São 23h30.
+   São nove e quinze.
+   Por favor, entre.
+   Desculpe, nós não aceitamos cartão de crédito.
+  
+   Desculpe, nós só aceitamos em dinheiro.
+   Aquele restaurante não é caro.
+   Isso é muito caro.
+   Tem muita gente aqui.
+   Eles cobram 26 dólares por dia.
+   Qual é a taxa de conversão para o dólar?
+   Qual é o número do telefone?
+   Onde posso comprar os ingressos?
+   Onde você gostaria de se encontrar?
+   Quail deles/delas é melhor?
+   Do outro lado do correio
+   Às três horas.
+   Fique quieto
+   Você poderia recomendar um bom restaurante?
+   Aqui está.
+   Aqui está.
+   Ele está na cozinha
+   Ele estuda na Universidade de Boston.
+   Quanto longe?
+   Quão longe é Chicago?
+   Quantas milhas são até Pensilvânia?
+   Eu queria um quarto de solteiro.
+   Eu gosto de assistir TV.
+   Está delicioso.
+   São onze e meia
+   É menos de 5 dólares.
+   É mais que 5 dólares
+   É perto do supermercado.
+   Não é pra chover hoje.
+   Está OK.
+   É na Sétima Rua.
+   Está bem calor.
+   É pra chover amanhã.
+   Eu estava indo à biblioteca.
+   Eu estava na biblioteca.
+   Vamos.
+   Pode ser/Talvez.
+   Mais de 200 milhas
+   Minha casa fica perto do banco.
+   Perto do banco.
+   À esquerda.
+   À direita.
+   No segundo andar.
+   Fora do hotel.
+   Por aqui/Cá
+   Por alí/Lá
+   O livro está atrás da mesa.
+   O livro está na frente da mesa.
+   O livro está perto da mesa.
+   O livro está ao lado da mesa.
+   O livro está no topo da mesa.
+   Tem alguns livros na mesa.
+   Tem um livro sob a mesa.
+   Nós somos da Califórnia.
+   Qual é o endereço?
+   Onde você está indo?
+   Onde está?
+   Onde você gostaria de ir?
+   Quem ganhou?
+   Posso ver teu passaporte por favor?
+   Quer deixar uma mensagem?
+   Posso experimentar?
+   Podemos nos sentar aqui?
+   Você veio com sua família?
+   Você acha que é possível?
+   Aqui está meu telefone
+   Ele não está agora
+   Oi, a Sra. Smith está, por favor?
+   Eu também queria um pouco de água, por favor.
+   Eu queria comprar uma garrafa de água, por favor.
+  
+   Eu queria comprar alguma coisa.
+   Eu gostaria de ir à loja.
+   Eu gostaria de alugar um carro.
+   Eu gostaria de enviar um fax.
+   Eu gostaria de enviar isto à América.
+   Eu gostaria de falar com o Sr. Smith, por favor.
+  
+   Eu tenho três filhos, duas meninas e um menino.
+  
+   Eu volto logo.
+   Eu ligo mais tarde.
+   Eu te ligo na sexta,
+   Eu te ensinarei.
+   Estou OK.
+   Eu preciso de uns lenços.
+   Tem algum guia que fale inglês?
+   Eu quero te dar um presente.
+   Masculino ou feminino?
+   Meu celular não está com um bom sinal.
+   Meu celular não funciona.
+   Por favor tire teus sapatos.
+   Desculpe, eu acho que eu tenho um número errado.
+  
+   Qual é o DDD (Código de Área)
+   Qual o nome da empresa para a qual você trabalha?
+  
+   O que está errado?
+   Qual é o teu endereço?
+   Onde posso achar um hospital?
+   Onde fica o restaurante mais próximo?
+   Onde tem uma farmácia?
+   Quem é você?
+   Quem é?
+   Com quem você gostaria de falar?
+   Você me leva pra casa?
+   Você gostaria de água ou leite?
+   11 dias atrás
+   2 horas
+   O dia todo
+   Há muito tempo
+   Eles virão esta noite?
+   Você está confortável?
+   Teus filhos estão contigo?
+   Assim que possível.
+   Às três da tarde.
+   Na quinta rua.
+   Às sete da noite.
+   Às sete da manhã.
+   A que horas aconteceu?
+   Posso te ajudar?
+   Você tem piscina?
+   Você tem este no tamanho 11?
+   Você acha que estará de volta até às 11:30?
+   Todos os dias eu acordo às 6 da manhã.
+   Toda semana.
+   Data de vencimento.
+   Você está esperando há muito tempo?
+   Ele volta em 20 minutos.
+   A família dele vem amanhã.
+   Que tal sábado?
+   Quanto tempo você vai ficar?
+   Quanto tempo você vai ficar na Califórnia?
+   Quanto tempo vai levar?
+   Quanto custa tudo junto?
+   Quanto vai custar?
+   Eu não tenho dinheiro suficiente.
+   Eu estou me aprontando pra sair.
+   Estou só olhando (num Shopping)
+   Estou preocupado também.
+   Vai fazer frio esta noite.
+   Choveu forte hoje.
+   São 17 dólares.
+   São 6 da manhã
+   São 8h45
+   São quinze para as 7,
+   Vai nevar hoje
+   É aqui.
+   É ali.
+   Eu já ví.
+   John vai sair de férias amanhã.
+   Meu aniversário é dia 27 de agosto.
+   Agora ou mais tarde?
+   22 de outubro
+   Ela quer saber quando você vem.
+   Às vezes eu vou dormir às 23h, algumas vezes às 23h30.
+  
+   Tem muito tempo.
+   O dia todo.
+   Nós estamos atrasados.
+   Em qual dia eles vem?
+   Que dia da semana é hoje?
+   Que dia é hoje?
+   Qual é a tua religião?
+   A que horas eles chegam?
+   A que horas você se levanta?
+   A que horas você vai dormir?
+   A que horas você acorda?
+   A que horas começa?
+   Que horas você acha que vai chegar?
+   Que horas são?
+   Quado eles estão vindo?
+   Quando você volta?
+   Quando você vai buscar teu/tua amigo/a?
+   Quando você parte?
+   Quando você se muda?
+   Quando é o próximo ônibus para a Filadélfia?
+   Quando é o teu aniversário?
+   Quando eu fui à loja ele não tinham nenhuma maçã.
+  
+   Quando foi a última vez que você falou com tua mãe?
+  
+   Quando ele volta?
+   Quando ficará pronto?
+   Onde você está indo?
+   Você está ocupado?
+   Posso ter um pouco de pão por favor?
+   Você tem dinheiro?
+   Por quantas noites?
+   Quanto tempo você vai ficar?
+   Eu queria um mapa da cidade.
+   Eu queria um quarto de não fumante.
+   Eu queria um quarto.
+   Eu queria um quarto com duas camas por favor.
+   Eu preciso de um médico.
+   Tem uma casa noturna/danceteria na cidade?
+   Tem restaurante no hotel?
+   Tem uma loja por aqui?
+   Desculpe, nós não temos vagas.
+   Leve-me para o Hotel Marriott
+   Qual é a diária? (hotel)
+   A que horas é a saída do hotel?
+   Onde fica o aerporto?
+   Onde tem uma caixa de correio?
+   Você vai sozinho?
+   Posso trazer meu amigo/minha amiga?
+   Posso ter o recibo por favor?
+   Posso ter um desconto?
+   Você pode nos trazer o carápio por favor?
+   Você pode segurar isso para mim?
+   Você tem filhos?
+   Você sabe quanto custa?
+   Você já comeu num restaurante?
+   Você já comeu?
+   Você já comeu sopa de batata?
+   Ele gosta de suco mas não gosta de leite.
+   Aqui está sua salada
+   Aqui está o seu pedido
+   Como está o sabor?
+   Para quantas pessoas? (restaurante)
+   Eu concordo.
+   Eu queria uma mesa perto da janela.
+   Eu gostaria de ligar para os Estados Unidos.
+   Eu nunca estive lá
+   Eu não acabei de comer.
+   Eu gosto.
+   Eu te dou uma ligada.
+   Eu quero uma xícara de chá por favor.
+   Eu quero um copo com água por favor.
+   Eu sou dos Estados Unidos.
+   Eu estou indo para a cama.
+   Estou aqui a negócios.
+   Lamento/Sinto muito.
+   Eu tenho somente 5 dólares.
+   Eu acho que eu preciso ir ao médico.
+   Hoje é 25 de agosto.
+   Eu entendo.
+   3 de junho.
+   A comida estava deliciosa.
+   Tem algumas maçãs na geladeira.
+   Tem um restaurante aqui perto.
+   Tem um restaurante alí mas eu não acho que seja muito bom.
+  
+   Garçon!
+   Garçonete!
+   Nós podemos comer comida italiana ou chinesa.
+   Nós queremos dois copos com água por favor.
+   O que você vai quere?
+   O que você recomenda?
+   Qual é o teu endereço eletrônico? (email)
+   O que você gostaria de beber?
+   O que você gostaria de comer?
+   Onde tem um caixa eletrônico?
+   Onde tem um médico que fale inglês?
+   Qual deles?
+   Você pede a ele para vir aqui?
+   Você gostaria de um copo com água?
+   Você gostaria de café ou chá?
+   Você gostaria de algo para beber?
+   Você gostaria de um pouco de água?
+   Você gostaria de um pouco de vinho?
+   Você gostaria de fazer um passeio?
+   Você gostaria de assistir TV?

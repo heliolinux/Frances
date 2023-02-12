@@ -1,0 +1,23 @@
+   chamar
+   cartão
+   computador
+   fio/corda/cabo
+   apagar
+   email
+   envelope
+   facsimile/fax
+   informação
+   Internet
+   carta
+   correspondência
+   pacote
+   página
+   senha
+   caneta
+   telefone
+   cartão postal
+   camisa
+   software
+   selo/carimbo
+   tipo/espécie
+   Página na rede;Website

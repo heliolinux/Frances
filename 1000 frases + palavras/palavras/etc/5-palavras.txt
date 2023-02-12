@@ -1,0 +1,24 @@
+   acima
+   costas
+   atrás
+   abaixo
+   entre
+   centro
+   de baixo (escada)
+   centro da cidade
+   frente
+   aqui
+   dentro
+   prisão
+   perto
+   próximo
+   sobre
+   oposto
+   do lado de fora
+   por cima
+   lá
+   topo/mais alto
+   sob/debaixo
+   em cima/para cima
+   em cima/andar de cima
+   vila

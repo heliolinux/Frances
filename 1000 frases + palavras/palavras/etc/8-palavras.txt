@@ -1,0 +1,29 @@
+   apartamento
+   cama
+   quarto
+   fechado
+   confortavel
+   elevador
+   cheio
+   convidado
+   ginástica
+   hotel
+   chave
+   chaves
+   grande/vasto
+   lavanderia aumotática
+   couro
+   bagagem
+   não fumante
+   ocupado
+   travesseiro
+   poder/força
+   qualidade
+   lâmina de barbear
+   quarto
+   areia
+   diversos
+   calado
+   toalha
+   vago
+   floresta

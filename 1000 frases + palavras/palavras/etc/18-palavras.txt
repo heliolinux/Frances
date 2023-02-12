@@ -1,0 +1,27 @@
+   ar
+   aparecer
+   nublado
+   frio
+   escuro
+   cair
+   neblina
+   cinza
+   calor
+   quente
+   gelo
+   advogado
+   lua
+   chover
+   chuva
+   estação do ano
+   nevar
+   estrelas
+   sol
+   ensolarado
+   temperatura
+   quente
+   tempo
+   molhado
+   vento
+   com muito vento
+   inverno

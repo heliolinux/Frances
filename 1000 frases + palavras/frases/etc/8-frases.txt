@@ -1,0 +1,19 @@
+   Você está ocupado?
+   Posso ter um pouco de pão por favor?
+   Você tem dinheiro?
+   Por quantas noites?
+   Quanto tempo você vai ficar?
+   Eu queria um mapa da cidade.
+   Eu queria um quarto de não fumante.
+   Eu queria um quarto.
+   Eu queria um quarto com duas camas por favor.
+   Eu preciso de um médico.
+   Tem uma casa noturna/danceteria na cidade?
+   Tem restaurante no hotel?
+   Tem uma loja por aqui?
+   Desculpe, nós não temos vagas.
+   Leve-me para o Hotel Marriott
+   Qual é a diária? (hotel)
+   A que horas é a saída do hotel?
+   Onde fica o aerporto?
+   Onde tem uma caixa de correio?

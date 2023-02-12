@@ -1,0 +1,25 @@
+# Cores
+	Branco
+	Negro
+	Verde
+	Amarelo
+	Azul
+	Vermelho
+	Laranja
+	Marrom
+	Cinza
+	Rosa
+	Roxo
+	Prata
+	Ouro
+	Prateado, dourado, esverdeado, alaranjado, amarelado....
+
+
+# Números
+	1
+	2
+	3
+	10
+	100
+	1000...
+	1000000...

@@ -1,0 +1,72 @@
+   anúncio
+   mochila
+   bolsa/saco
+   bola
+   cesto/a
+   basquetebol
+   baterias
+   cinto
+   blusa
+   caixa
+   pulseira
+   escova/pincel
+   balde
+   câmera
+   vela
+   tapete
+   cassete
+   CD
+   cadeira
+   relógio
+   roupas
+   casacão
+   pentear
+   algodão
+   sofá
+   cliente
+   desodorante
+   desconto
+   vestir
+   brincos
+   caro
+   flor
+   pagar (uma conta)
+   livre
+  
+   presente
+   luva
+   ouro
+   garantir
+   goma de mascar
+   chapéu
+   fones de ouvido
+   brim
+   loção
+   revista
+   shopping-center
+   mercado
+   espelho
+   colar
+   calças
+   presente/estar presente
+   preço
+   bolsa/carteira
+   descansar
+   anel
+   cachicol
+   shampoo
+   sapatos
+   tamanho
+   sabonete
+   meias
+   especial
+   loja
+   óculos escuros
+   supermercado
+   suéter
+   gravata
+   lenço de papel
+   camiseta
+   guarda-chuva
+   cueca
+   carteira (dinheiro)
