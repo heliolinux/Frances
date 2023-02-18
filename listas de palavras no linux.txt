@@ -1,0 +1,7 @@
+No Linux
+
+/usr/share/dict
+
+brazilian
+
+
