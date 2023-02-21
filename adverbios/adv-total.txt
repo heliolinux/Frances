@@ -1,0 +1,136 @@
+*agora
+*ainda
+*à tarde
+*à noite
+*anteontem
+*antes
+*às vezes
+*atualmente
+*breve
+*cedo
+cedo e tarde
+*de manhã
+*depois
+*de repente
+*de vez em quando
+*ontem
+*hoje
+*hoje em dia
+*amanhã
+*tarde
+*já
+*jamais
+*logo
+*nunca
+ora
+outrora
+*quando
+*sempre
+
+*apenas
+assaz
+*bastante
+*bem
+*demais
+de pouco
+de todo
+deveras
+*mais
+*mal
+*menos
+*muito
+*pouco
+*quanto
+*quão
+*quase
+*tanto
+tanto e tão
+*tão
+
+
+*abaixo
+*acima
+acolá
+*adiante
+*à direita
+*à esquerda
+*aí
+*além
+algures
+*ali
+*ao lado
+aquém
+*aqui
+*atrás
+*através
+cá
+de
+*de cima
+*defronte
+*dentro
+*detrás
+*em cima
+*fora
+*lá
+lá e atrás
+*longe
+*onde
+*perto
+*por fora
+
+
+ao léu
+às claras
+às pressas
+*assim
+à toa
+à vontade
+*bem
+*com
+debalde
+de cócoras
+de cor
+de mansinho
+*depressa
+*devagar
+*em
+face a face
+*frente a frente
+*mal
+*melhor
+*pior
+rancor
+*rápido
+sem medo
+silêncio
+*sufixos: -mente.
+
+
+*certamente
+claro e positivo
+*com certeza
+decerto
+efetivamente
+por certo
+realmente
+seguramente
+*sem dúvida
+*sim
+
+*de jeito nenhum
+*de maneira alguma
+*de modo algum
+*jamais
+*não
+negativo
+*nem
+*nenhum
+*nunca
+*tampouco
+*acaso
+eventualmente
+*porventura
+*possivelmente
+*provavelmente
+quiçá
+*talvez
