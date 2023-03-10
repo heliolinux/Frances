@@ -4,31 +4,32 @@ ainda
 à noite
 anteontem
 antes
+durante
+depois
 às vezes
 atualmente
 breve 
 cedo
+tarde
 de manhã
-depois
 de repente
 de vez em quando
 ontem
 hoje
-hoje em dia
 amanhã
-tarde
+hoje em dia
 já
-jamais
 logo
-nunca
-quando
 sempre
+nunca
+jamais
+quando
 apenas
 bastante
 bem
-demais
-mais
 mal
+mais
+demais
 menos
 muito
 pouco
@@ -42,11 +43,11 @@ acima
 adiante
 à direita
 à esquerda
+aqui
+ali
 aí
 além
-ali
 ao lado
-aqui
 atrás
 através
 de cima

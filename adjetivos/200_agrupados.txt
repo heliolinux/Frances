@@ -177,4 +177,3 @@ rico | pobre
 
 saudável | doente
 grave
-
