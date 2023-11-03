@@ -414,6 +414,8 @@ VERBOS (açoes) - Um verbo realizado sobre (por/em) alguém/algo: P. ex.: O Desc
 
 Descreve coisas + pessoas fazendo/sofrendo (que envolvem) coisas num lugar e tempo determinados.
 
+Por utilizar mais os verbos, será necessário o uso de *advérbios* para que se explique melhor a açao cometida ou sofrida pela pessoa (sujeito).
+
 (Alguém* fez algo)
 
 * Eu, ele, tú, eles, nós...
