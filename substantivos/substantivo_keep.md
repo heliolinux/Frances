@@ -1,4 +1,17 @@
 # SUBSTANTIVOS - COISAS
+ ver tb
+	https://www.viajoteca.com/vocabulario-de-ingles-para-viagem/
+	https://www.nacaofluente.com/blog/ingles-para-viagem-guia-completo/
+	https://aprendafalaringles.com.br/english-idioms/
+	https://wordwall.net/pt-br/community/vocabul%C3%A1rio-de-animais
+
+
+ Ordenar por nome do substantivo (desconsiderando artigo) e eliminando os duplicados:
+	 sort aa -t' ' -k2 aa | uniq > aaa
+ 	 rm aa
+	 mv aaa aa
+
+
 
 X ## CORPO
 X ## ROUPAS
@@ -10,34 +23,25 @@ X ## SENTIMENTOS
 X ## VIRTUDES - tem ... ou adjetivos ?
 X ## DEFEITOS - tem ... ou adjetivos ?
 X ## TEMPO
-
 X ## RUA/TRÂNSITO
 X ## TRANSPORTE
 X ## TRABALHO/COMÉRCIOS
 X ## PROFISSÕES
 X ## ESCOLA
 X ## IGREJA
-
 ## SOCIEDADE
-
 X ## LAZER
-
 X ## NATUREZA/PAISAGENS/AMBIENTES/
-
-## ANIMAIS
-
-## ESPORTES
-## COMPRAS
-## RESTAURANTE, COZINHA 
-
+X ## ANIMAIS
+X ## ESPORTES
+X ## COMPRAS
+X ## RESTAURANTE, COZINHA 
 X ## TURISMO, LAZER, VIAGEM, CULTURA
-## AEROPORTO
+X ## AEROPORTO
 ## NACIONALIDADES
-## HOTEL
+X ## HOTEL
 ## HOSPITAL/DOENÇAS
 
-
-Adicionar os artigos... (como ?)
 
 +++
 
@@ -338,6 +342,7 @@ a Calça
 a Calcinha
 a Camisa
 a Camiseta
+o Casaco
 o Cinto
 a Corrente
 a Cueca
@@ -988,391 +993,624 @@ a Vitrine
 
 ## COMÉRCIOS
 
-Açougue
-Aeroporto
-Albergue
-Ambulante
-Asilo
-Banco
-Bar
-Biblioteca
-Borracheiro
-Cabeleireiro
-Cafeteria
-Cemitério
-Clínica
-Comércios
-Cyber-Café
-Danceteria
-Delegacia
-Doceria
-Drogaria
-Escola
-Escritório
-Gasolina
-Hospital
-Hotel
-Igreja
-Imobiliária
-Internet
-Livraria
-Loja
-Mecânica
-Mercado
-Oficina
-Orfanato
-Padaria
-Pizzaria
-Porto
-Posto de gasolina
-Posto-De-Informações
-Prisão
-Restaurante
-Shopping
-Sorveteria
+o Açougue
+o Aeroporto
+o Albergue
+o Ambulante
+o Asilo
+o Banco
+o Bar
+a Biblioteca
+o Borracheiro
+o Cabeleireiro
+a Cafeteria
+o Cemitério
+a Clínica
+o Comércio
+o Cyber-Café
+a Danceteria
+a Delegacia
+a Doceria
+a Drogaria
+a Escola
+o Escritório
+o Hospital
+o Hotel
+a Igreja
+a Imobiliária
+a Internet
+a Livraria
+a Loja
+a Mecânica
+o Mercado
+a Oficina
+o Orfanato
+a Padaria
+a Pizzaria
+o Porto
+o Posto de gasolina
+o Posto-De-Informações
+a Prisão
+o Restaurante
+o Shopping
+a Sorveteria
 
 ===
 
 ## PROFISSÕES
 
-Administrador
-Advogado
-Aeromoça
-Agricultor
-Artista
-Atendente
-Ator
-Bombeiro
-Cantor
-Carpinteiro
-Cientista
-Comediante
-Comerciante
-Contador
-Correio
-Dentista
-Desempregado
-Dinheiro
-Enfermeiro
-Escritor
-Esportista
-Garçom
-Guia
-Investidor
-Jornalista
-Juiz
-Labrador
-Mecânico
-Médico
-Missionário
-Motorista
-Músico
-Nutricionista
-Padeiro
-Pastor
-Patrão
-Pescador
-Piloto
-Polícia
-Político
-Porteiro
-Professor
-Programador
-Salva-Vidas
-Tradutor
-Turístico
-Vendedor
-Vigia
+o Administrador
+o Advogado
+a Aeromoça
+o Agricultor
+o Artista
+o Atendente
+o Ator
+o Bombeiro
+o Cantor
+o Carpinteiro
+o Cientista
+o Comediante
+o Comerciante
+o Contador
+o Correio
+o Dentista
+o Desempregado
+o Enfermeiro
+o Escritor
+o Esportista
+o Garçom
+o Guia Turístico
+o Investidor
+o Jornalista
+o Juiz
+o Labrador
+o Mecânico
+o Médico
+o Missionário
+o Motorista
+o Músico
+o Nutricionista
+o Padeiro
+o Pastor
+o Patrão
+o Pescador
+o Piloto
+o Polícia
+o Político
+o Porteiro
+o Professor
+o Programador
+o Salva-Vidas
+o Tradutor
+o Vendedor
+o Vigia
 
 ====
 
 ## ESCOLA
 
-Aluno
-Apagador
-Armário
-Atendimento
-Aula
-Biblioteca
-Biologia
-Borracha
-Cadeira
-Caneta
-Canetão
-Cantina
-Ciências
-Cola
-Colégio
-Curso
-Diretor
-Diretoria
-Disciplina
-Educação
-Escola
-Estudante
-Faculdade
-Filosofia
-Física
-Folha
-Giz
-História
-Intervalo
-Lápis
-Leitura
-Livro
-Lousa
-Matemática
-Mensalidade
-Mesa
-Mochila
-Pesquisa
-Professor
-Quadro
-Química
-Redação
-Secretaria
-Tarefa
-Teologia
-Tesoura
-Trabalho
-Universidade
+o Aluno
+o Apagador
+o Armário
+o Atendimento
+a Aula
+a Biblioteca
+a Biologia
+a Borracha
+a Cadeira
+a Caneta
+o Canetão
+a Cantina
+a Ciência
+a Cola
+o Colégio
+o Curso
+o Diretor
+a Diretoria
+a Disciplina
+a Educação
+a Escola
+o Estudante
+a Faculdade
+a Filosofia
+a Física
+a Folha
+o Giz
+a História
+o Intervalo
+o Lápis
+a Leitura
+o Livro
+a Lousa
+a Matemática
+a Mensalidade
+a Mesa
+a Mochila
+a Pesquisa
+o Professor
+o Quadro
+a Química
+a Redação
+a Secretaria
+a Tarefa
+a Teologia
+a Tesoura
+o Trabalho
+a Universidade
 
 ===
 
 ## COISAS DA NATUREZA
 
-Água
-Animal
-Ar
-Areia
-Árvore
-Barulho
-Bonança
-Bosque
-Brisa
-Cachoeira
-Calor
-Céu
-Cheiro
-Chuva
-Criação
-Criador
-Criança
-Criatura
-Deserto
-Deus
-Dia
-Escuridão
-Estrelas
-Existência
-Floresta
-Fogo
-Frio
-Grão
-Homem
-Horizonte
-Lago
-Lua
-Luz
-Manhã
-Mar
-Montanha
-Morte
-Mulher
-Noite
-Nuvens
-Oceano
-Paisagem
-Parto
-Pasto
-Pessoa
-Planta
-Pó
-Praia
-Relâmpago
-Rio
-Ruído
-Selva
-Semente
-Ser-Humano
-Sol
-Som
-Tarde
-Tempestade
-Tempo
-Terra
-Universo
-Vale
-Vento
-Vida
+a Água
+o Animal
+o Ar
+a Areia
+a Árvore
+o Barulho
+a Bonança
+o Bosque
+a Brisa
+a Cachoeira
+o Calor
+o Céu
+o Cheiro
+a Chuva
+a Criação
+o Criador
+a Criança
+a Criatura
+o Deserto
+o Deus
+o Dia
+a Escuridão
+a Estrela
+a Existência
+a Floresta
+o Fogo
+o Frio
+o Grão
+o Homem
+o Horizonte
+o Lago
+a Lua
+a Luz
+a Manhã
+o Mar
+a Montanha
+a Morte
+a Mulher
+a Noite
+a Nuvem
+o Oceano
+a Paisagem
+o Parto
+o Pasto
+a Pessoa
+a Planta
+o Pó
+a Praia
+o Relâmpago
+o Rio
+o Ruído
+a Selva
+a Semente
+o Ser-Humano
+o Sol
+o Som
+a Tarde
+a Tempestade
+o Tempo
+a Terra
+o Universo
+o Vale
+o Vento
+a Vida
 
 ===
 
-## ANIMAIS
+## ANIMAIS (falta + // ORDENAR)
 
-Bico
-Rabo
-Asas
-Garras
-Patas
-Leão 
-Cordeiro
-Pomba
-Águia
-Ave
-Peixe
-Boi
-Vaca
-Cachorro
-Gato 
-Cavalo
-Égua
-Abelha
-Porco
-Galinha
-Galo
-Tigre
-Tubarão
-Papagaio
-Dinossauro
-Mosca
-Mosquito
-Inseto
-Barata
-Rato
-Coelho
-Tartaruga
-Lobo
-Urso
-Cobra
-Sapo
-Rã
-Pantera
-Onça
-Elefante
-Girafa
-Macaco
-...
+a Abelha
+a Águia
+a Asa
+a Ave
+a Baleia
+a Barata
+a Borboleta
+a Cobra
+a Égua
+a Foca
+a Galinha
+a Garra
+a Girafa
+a Mosca
+a Onça
+a Ovelha
+a Pantera
+a Pata
+a Pomba
+a Pulga
+a Rã
+a Tartaruga
+a Vaca
+o Bico
+o Boi
+o Cachorro
+o Camelo
+o Cavalo
+o Coelho
+o Cordeiro
+o Dinossauro
+o Elefante
+o Escorpiao
+o Galo
+o Gato 
+o Grilo
+o Inseto
+o Leão 
+o Leopardo
+o Lobo
+o Macaco
+o Mosquito
+o Papagaio
+o Pato
+o Peixe
+o Porco
+o Rabo
+o Rato
+o Sapo
+o Tigre
+o Touro
+o Tubarão
+o Urso
 
 ===
 
 ## TURISMO, VIAGEM, LAZER, CULTURA
 
-Acampamento
-Agência
-Alfândega
-Aniversário
-Annie
-Aplausos
-Apresentação
-Arredores
-Ator
-Atrações
-Atriz
-Aventura
-Bagagem
-Bairro
-Biblioteca
-Biografia
-Boletos
-Campo
-Castelo
-Cemitério
-Cena
-Centro
-Centro-Da-Cidade
-Cinema
-Circo
-Comédia
-Conserto
-Cultura
-Destino
-Discoteca
-Diversão
-Entrada
-Escavação
-Escultura
-Espetáculo
-Excursão
-Exposição
-Feira
-Férias
-Festa
-Fila
-Filme
-Galeria
-Guia
-Ingressos
-Instrumento
-Itinerário
-Jardim
-Lazer
-Literatura
-Livro
-Local
-Mala
-Mapa.
-Mercado
-Moldura
-Montanha
-Museu
-Obra-De-Arte
-Paisagem
-Palhaço
-Parada
-Passaporte
-Passeio
-Peça
-Pintura
-Piscina
-Plateia
-Praia
-Público
-Quadro
-Recepção
-Reserva
-Romance
-Saída
-Sala
-Teatro
-Templo
-Torre
-Turismo
-Viagem
-Vilarejo
+o Acampamento
+a Agência
+a Alfândega
+o Aniversário
+o Aplauso
+a Apresentação
+os Arredores
+o Ator
+a Atração
+a Atriz
+a Aventura
+a Bagagem
+o Bairro
+a Biblioteca
+a Biografia
+o Boleto
+o Campo
+o Castelo
+o Cemitério
+a Cena
+o Centro
+o Centro-Da-Cidade
+o Cinema
+o Circo
+a Comédia
+o Conserto
+a Cultura
+o Destino
+a Discoteca
+a Diversão
+a Entrada
+a Escavação
+a Escultura
+o Espetáculo
+a Excursão
+a Exposição
+a Feira
+as Férias
+a Festa
+a Fila
+o Filme
+a Galeria
+o Guia
+o Ingresso
+o Instrumento
+o Itinerário
+o Jardim
+o Lazer
+a Literatura
+o Livro
+o Local
+a Mala
+o Mapa
+o Mercado
+a Moldura
+a Montanha
+o Museu
+a Obra-De-Arte
+a Paisagem
+o Palhaço
+a Parada
+o Passaporte
+o Passeio
+a Peça
+a Pintura
+a Piscina
+a Plateia
+a Praia
+o Público
+o Quadro
+a Recepção
+a Reserva
+o Romance
+a Saída
+a Sala
+o Teatro
+o Templo
+a Torre
+o Turismo
+a Viagem
+o Vilarejo
 
 ===
 
 ## AEROPORTO
 
+a Aeromoça
+o Aeroporto
+a Alfandega
+o Assento
+o Aviao
+a Bagagem
+o Banheiro
+o Caixa eletronico
+o Carrinho de bagagem
+a Casa de cambio
+o Check-in
+a Chegada
+o Cinto de seguranca
+a Classe economica
+a Classe executiva
+a Companhia aérea
+o Corredor
+a Decolagem
+o Desembarque
+o Elevador 
+o Embarque
+a Escada rolante
+a Escala
+a Esteira
+o Horário
+o Hotel
+a Imigraçao
+a Janela
+a Mala
+a Partida
+o Passageiro
+a Passagem
+o Passaporte
+o Piloto
+o Portao
+a Primeira classe
+a Saída de emergencia
+a Sala de espera
+o Taxi
+o Terminal
+o Travesseiro
+a Viagem
+o Voo
 
+===
 
 ## NACIONALIDADES
 
+o Africano
+o Americano
+o Árabe
+o Brasileiro
+o Chines
+o Europeu
+o Judeu
 
+===
 
 ## HOTEL
 
+o Almoço
+o Andar
+o Aquecedor
+o Ar condicionado
+o Barbeador
+o Café da manha
+a Cama
+a Chave
+o Cobertor
+o Cofre
+o Colchao
+o Condicionador de cabelo
+o Controle remoto
+o Documento de identificaçao
+a Ducha
+o Elevador
+a Entrada
+o Estacionamento
+o Fumante - nao-fumante
+o Funcionário
+o Gerente
+o Guardarroupa
+o Hóspede
+a Internet
+o Jantar
+a Lavanderia
+a Limpeza
+o Papel higienico
+a Pensao
+a Piscina
+o Quarto
+o Quarto de solteiro
+o Quarto duplo
+a Recepçao
+a Refeiçao
+a Reserva
+o Sabonete
+a Sacada
+a Saída
+o Secador de cabelo
+a Senha
+o Serviço de quarto
+a Suite
+o Telefone
+o Térreo
+a Toalha
+o Travesseiro
+a TV
+a Vaga
+a Vista
+o Wifi
+o Xampú
 
+===
 
 ## RESTAURANTE, COZINHA 
 
+a Água com gás
+o Azeite
+o Bar
+a Bebida
+a Cadeira
+o Cardápio
+a Carne
+o Cartao de crédito
+a Cerveja
+a Colher
+a Conta
+o Copo 
+o Dinheiro (em espécie)
+a Entrada
+a Especialidade
+a Faca
+os Frutos do mar
+o Garçom
+o Garfo
+a Gorjeta
+o Grelhado
+o Guardanapo
+a Manteiga
+a Massa
+a Mesa
+a Moeda
+o Molho
+a Pimenta
+a Porçao
+a Praça de alimentaçao
+o Prato
+o Prato do dia
+o Preço
+o Recibo
+a Recomendaçao
+o Refrigerante
+o Sal
+a Salada
+a Sobremesa
+a Sopa
+o Sorvete
+o Suco
+a Taça
+o Talher
+o Tempero
+o Troco
+o Vinho
 
+===
 
 ## COMPRAS
 
+o Acessório
+o Açougue
+o Banco
+o Desconto
+a Drogaria
+os Eletronicos
+a Floricultura
+a Joalheria
+a Liquidaçao
+a Livraria
+a Loja
+a Padaria
+a Perfumaria
+o Preço
+a Promoçao
+o Provador
+o Recibo
+a Roupa
+o Sapato
+o Shopping
+o Supermercado
+o Tamanho
+a Troca
 
+===
 
 ## ESPORTES
 
+o Adversário
+o Árbitro
+o Atleta
+o Atletismo
+o Basquete
+a Bicicleta
+a Bola
+o Campeao
+o Campeonato
+o Campo
+a Cesta
+o Chute
+o Ciclismo
+a Corrida
+o Empate
+a Equipe
+a Falta
+o Futebol
+a Ginástica
+o Gol
+o Golfe
+o Jogador
+o Jogo
+o Locutor
+a Luta
+a Medalha
+a Musculaçao
+a Nataçao
+a Partida
+o Passe
+o Perdedor
+a Piscina
+o Placar
+o Ponto
+a Quadra
+a Rede
+a Regra
+o Surfe
+o Tenis
+o Torcedor
+a Torcida
+o Treinador
+o Troféu
+o Vencedor
+o Volei
 
+===
 
 ## HOSPITAL/DOENÇAS
 
 a Dor
 
 
+
+===
+
 ## SOCIEDADE
+
 
 
 
