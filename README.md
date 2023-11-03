@@ -95,12 +95,19 @@ Trabalharemos em como orientar seus pensamentos para adquirir mais de um idioma,
 O que você precisa, no mínimo, para começar a aprender um novo idioma de forma self-service?
 
  [ ] Mente preparada
+ 
  [ ] Motivação correta (com metas, reavaliações de propósito, estímulos, etc...)
+ 
  [ ] Esse método (guia) que está em tuas mãos agora.
+ 
  [ ] Internet
+ 
  [ ] Livros essenciais: Dicionário bilíngue, livro de frases básicas (para viagem), dicionário de sinônimos (opcional). 
+ 
  [ ] Um candidato a "professor" (ou tradutor).
+ 
  [ ] Gravador de voz (celular).
+ 
 
 
 ### Mente preparada para aprender um idioma 
