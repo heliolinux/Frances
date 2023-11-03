@@ -293,6 +293,10 @@ Para descrever coisas e pessoas se usa normalmente o modelo *"S=Adj"*, ou seja: 
 
 (Note que os substantivos sempre estao acompanhados de artigo.)
 
+No momento em que o aprendiz do idioma usa o verbo ESTAR para descrever a posiçao ou localizaçao de uma coisa em *relaçao* a uma outra coisa, ele fará muito o uso das *preposiçoes*. Exemplos: 'A fruta está sobre a mesa' ou 'O sapato está debaixo da cama' ou 'A casa está junto ao (perto do) parque'.
+
+Se pode também aproveitar esse momento para aprender algo normalmente simples num idioma que é o fazer *comparaçoes* quando se descreve coisas, usando alguns *advérbios* simples e alguns *conectivos* bem básicos, como: Maior que..., menor que..., mais que..., menos que..., se parece com..., é como...,  assim... como..., tal... tal..., muito..., pouco..., etc.
+
 Já para descrever fatos (açoes) ou ideias: A partir desse ponto (mais avançado) o comunicador passará a explicar acontecimentos, açoes, ideias, argumentos, etc e nao só descrever coisas simples com o verbo SER-ESTAR (usar outros verbos no modelo de frase: *"SVOs"* = Sujeito + Verbo + Objetos) ou no formato *"NAGD"*: 'O nominativo fez um acusativo do genetivo para o dativo' (casos em grego). Isso vai requer um conhecimento maior de verbos com suas conjugaçoes (conforme pessoa) e tempos (se é presente, passado, futuro).
 
 
@@ -338,7 +342,7 @@ No caso de descrever coisas, simule voê tendo que descrever algo para que algu�
 
 - Como se ouve, escuta..
 
-- Como se sente no toque (superfìcie, densidade - duro, mole...) - seco, molhado, suave, macio, húmedo, áspero, liso, rugoso,
+- Como se sente no toque (superfície, densidade - duro, mole...) - seco, molhado, suave, macio, húmedo, áspero, liso, rugoso,
 
 - Temperatura (quente, frio, gelado, morno...)
 
@@ -363,7 +367,7 @@ Falando de alguém (de mim, de ti, dele/a, deles, de nós)
 
 - Cor, Cabelo (cor, estilo, corte)
 
-- Altura (alto, baixo, 1,76)
+- Altura (alto, baixo, tem 1,76)
 
 - Nacionalidade, naturalidade.
 
@@ -414,11 +418,9 @@ VERBOS (açoes) - Um verbo realizado sobre (por/em) alguém/algo: P. ex.: O Desc
 
 Descreve coisas + pessoas fazendo/sofrendo (que envolvem) coisas num lugar e tempo determinados.
 
-Por utilizar mais os verbos, será necessário o uso de *advérbios* para que se explique melhor a açao cometida ou sofrida pela pessoa (sujeito).
+Por utilizar-se mais verbos, será necessário o uso de *advérbios* para que se explique melhor a açao cometida ou sofrida pela pessoa (sujeito).
 
-(Alguém* fez algo)
-
-* Eu, ele, tú, eles, nós...
+(Alguém fez algo): Eu, ele, tú, eles, nós...
 
 Alguém/algo fez/sofreu algo - Verbos geralmente no passado. E como aconteceu.
 
@@ -428,7 +430,7 @@ O QUE: (O que [nao] é/foi).
 
 QUEM: Envolvidos, de quem, para quem, com quem, por quem
 
-ONDE:
+ONDE: Local que está, estava, foi feito, aconteceu... (ver tb CONTEXTO).
 
 QUANDO: época, ano, mês, semana, dia, periodo do dia (nessa manha, tarde...), século...
 
@@ -440,7 +442,7 @@ POR QUE: Motivos, causas, como tudo começou, origem,
 
 PARA QUE: Objetivos, intençoes, finalidade,
 
-CONSEQUÊNCIAS: O que [pode] ocasionar de bom e de ruim, repercussao,
+CONSEQUÊNCIAS: O que [pode] ocasionar de bom e de ruim, repercussao, etc. (verbos em modo subjuntivo).
 
 Conectivos!!!!
 (de repente, porém, mas, contudo, enquanto isso, até que, provavelmente, isto é, ou seja, tudo indica que, logo, visto que, já que, enfim, finalmente, geralmente, normalmente, ao contrário, em compensaçao, mesmo assim, embora, ainda que...) 
