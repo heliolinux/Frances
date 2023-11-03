@@ -283,18 +283,18 @@ Uma boa dica para esse exercício (treino) é estar com seu celular gravando sua
 
 
 
-
-
-
-
-
-
-
 ## Falar um idioma é descrever
 
 Falar um idioma é saber descrever com palavras: Coisas, pessoas, fatos e ideias.
 
 É fazer alguém imaginar uma coisa, pessoa, notícia, sem que ela possa ver, mas somente com as suas palavras.
+
+Para descrever coisas e pessoas se usa normalmente o modelo *"S=Adj"*, ou seja: 'Substantivo + Verbo SER + Adjetivo' ou 'Substantivo + Verbo ESTAR + verbo adjetivado' (Exs.: 'O Carro é rápido', 'Pedro está atrasado'). Pode-se também usar frases com o verbo TER ou ESTAR COM para associar um Substantivo com outro. Esse é o modelo de frases *"S+S"* (Exs: 'A mesa tem duas gavetas', 'A menina está com a boneca'). 
+
+(Note que os substantivos sempre estao acompanhados de artigo.)
+
+Já para descrever fatos (açoes) ou ideias: A partir desse ponto (mais avançado) o comunicador passará a explicar acontecimentos, açoes, ideias, argumentos, etc e nao só descrever coisas simples com o verbo SER-ESTAR (usar outros verbos no modelo de frase: *"SVOs"* = Sujeito + Verbo + Objetos) ou no formato *"NAGD"*: 'O nominativo fez um acusativo do genetivo para o dativo' (casos em grego). Isso vai requer um conhecimento maior de verbos com suas conjugaçoes (conforme pessoa) e tempos (se é presente, passado, futuro).
+
 
 ### Coisas
 
@@ -345,6 +345,7 @@ No caso de descrever coisas, simule voê tendo que descrever algo para que algu�
 - Valor, preço, avaliaçao (caro, barato, ótimo, excelente, ruim, péssimo, bom)
 
 - Condiçao (idade) - velho, usado, novo, rasgado, quebrado, arrumado, batido, arranhado, consertado, conservado, mal estado, comprei ontem, recém comprado, semi-usado, quase novo...)
+
 
 ### PESSOAS
 
@@ -404,6 +405,7 @@ Falando de alguém (de mim, de ti, dele/a, deles, de nós)
 
 - Costumes (de sempre fazer coisas, de acreditar, de reagir, cultura, crendices, práticas antigas...)
 
+
 ### FATOS, NOTÍCIAS, ACONTECIMIENTOS
 
 Fofocas... o que aconteceu, e como, e onde, e quando, e quem...
@@ -442,9 +444,9 @@ Conectivos!!!!
 (de repente, porém, mas, contudo, enquanto isso, até que, provavelmente, isto é, ou seja, tudo indica que, logo, visto que, já que, enfim, finalmente, geralmente, normalmente, ao contrário, em compensaçao, mesmo assim, embora, ainda que...) 
 
 
-### Idéias
+### IDÉIAS
 
-(Descrevendo ideias, defendendo ou as "atacando")
+(Descrevendo ideias, defendendo ou as "atacando", isto é, argumentando, contando histórias, etc.)
 
 - Explicar/Expor essa ideia (O que é essa ideia)
 
@@ -455,4 +457,16 @@ Conectivos!!!!
 - Convencer uma pessoa de uma crença ou ideia (trnamitir a ideia, vender)
 
 - Refutar objeções 
+
+- Suposiçoes (*forma subjuntiva dos verbos*: se eu..., quando eu..., que eu...) - um uso mais avançado dos verbos.
+
+
+### APRENDENDO A PEDIR COISAS
+
+Nesta parte do estudo, que por ser geralmente mais simples, pode ser aprendida no início (no momento em que se aprende a descrever coisas), o aprendiz do idioma aprenderá a usar o *verbo na sua forma imperativa*, e nao apenas na indicativa (quando está descrevendo coisas).
+
+Esta forma de pedir as coisas (substantivos) pode ser positiva ou negativa, como por exemplo: 'Dá-me licença, por favor' e 'Nao fume neste local'.
+
+Continua....
+
 
