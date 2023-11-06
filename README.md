@@ -24,7 +24,6 @@ Não vou ensinar você ser autodidata, porque, na verdade, ninguém falará um i
 Por isso, você vai ter que precisar de um "professor" sim! Porém, este "professor" nem sequer precisa ser formado em Letras, Pedagogia ou Linguística, já que o método de como aprender você mesmo saberá. Portanto, só vai ser preciso encontrar uma pessoa que saiba falar aquele idioma (e o seu também, de preferência) e que aceite o desafio de te ensinar o que você precisa, isto é, o método Self-service de Aprendizagem de Idiomas. 
 
 
-
 ## Objetivo de este curso
 
 A intenção deste trabalho é propor o método em que o aprendiz de um idioma conseguirá guiar o seu professor a ensiná-lo de forma rápida e direta, para extrair tudo o que precisa inicialmente para saber falar independentemente.
@@ -40,6 +39,7 @@ Nosso curso, ou melhor, o seu curso, terá que ser dividido em duas grandes fase
 
 1. O mínimo que você precisa saber para falar um idioma
 2. O que você precisa para continuar avançando
+
 
 ### O mínimo que você precisa saber para falar
 
@@ -283,7 +283,364 @@ Uma boa dica para esse exercício (treino) é estar com seu celular gravando sua
 
 
 
-## Falar um idioma é descrever
+## O que é falar um idioma?
+
+Nesse estudo, buscamos responder a esta questao analisando frases e diálogos para chegar à conclusao que para começar a falar um idioma é necessário aprender:
+
+ 1- Ter os primeiros contatos com a nova língua
+ 2- Saber fazer perguntas essenciais
+ 3- Apresentar-se
+ 4- Aprender a pedir coisas
+ 5- Descrever coisas e pessoas
+ 6- Explicar fatos
+ 7- Aumentar o vocabulário
+ 
+Vejamos estes tópicos detalhadamente, com uma meta de tempo aproximada que vocë pode ou näo usar como parämetro, já que pode parecer de nivel muito intenso:
+
+
+### Como ter os primeiros contatos com uma nova língua
+(Tempo estimado: 1 ou 2 dias)
+
+Sao os primeiros contatos com um novo idioma que vao despertar um "amor a primeira vista" ou construir uma barreira pré-conceituosa com o novo desafio. 
+
+É claro que o que mais impulsiona o aprendizado é a motivaçao, objetivo e necessidade que o aprendiz tem e relembra no decorrer do seu aprendizado, porém, os primeiros contatos, feitos de modo correto, evitarao um estress "pré-traumático" nessa jornada. 
+
+Por isso, dentro deste primeiro contato podemos incluir algumas práticas e buscas interessantes como:
+
+ - Como se escuta esse idioma: É importante escutar conteúdos comuns ao aprendiz, isto é, que tem a ver com sua área de trabalho, estudo e preferencias. Nessa fase, o aprendiz absorverá o jeito de se falar e responder, a velocidade, a "melodia" do idioma, e outros detalhes que ele terá que se acostumar para poder imitá-los posteriormente.
+ 
+ - Como se le o novo idioma: Se deve saber se a maneira de ler esta nova língua é padronizada com o que se pronuncia, como por exemplo, é no idioma portuguës, espanhol e italiano, e diferentemente do que é no ingles. Se uma língua se pode ler as palavras exatamente iguais à maneira que se pronuncia, isso facilitará muitíssimo o auto-aprendizado de novas palavras, que nao ficará restrito apenas quando se possa escutar a pronúncia correta.
+ 
+ - Uma breve pesquisa de cognatos: Os cognatos sao as palavras semelhantes entre dois idiomas, sao palavras comuns nas duas línguas. As línguas latinas normalmente possuem muitos cognatos, o que pode acelerar muito a aquisiçao de vocabulário. Aliás, normalmente o vocabulário técnico nunca muda de um idioma para outro, salvo algumas exceçoes e pequenas diferenças na pronúncia (veja por exemplo o vocabulário médico ou informático em que a maioria dos nomes técnicos sao iguais em quase todas as línguas). A pesquisa pode ser feita na internet, ou mesmo com um dicionário, ao marcar todas as palavras em comúm que se possa encontrar. 
+ 
+Vale lembrar que existem os falsos-cognatos, que sao as palavras que embora existam nos dois idiomas, possuem um significado totalmente diferente!
+
+ - Filmes, músicas, livros traduzidos: Procure nesses conteúdos de informaçao preferidos o que voce encontra já traduzido para o novo idioma e tente comparar e encontrar padroes que comecem a fazer sentido no aprendizado e entendimento do novo idioma.  
+ 
+Obviamente, que estas práticas näo säo apenas para os "primeiros contatos", mas para sempre, enquanto vocë quiser que este idioma permaneça vivo em sua mente e coraçäo.
+
+
+### Quais sao as perguntas essenciais para começar aprender um novo idioma (...?)
+(Tempo estimado: de 2 a 4 dias)
+
+Existem perguntas essenciais que todo o aprendiz de um idioma necessita memorizar prioritariamente para poder sobreviver quando está adquirindo uma nova língua. 
+
+Além do mais, saber como se faz perguntas é algo essencial para quem deseja se comunicar no idioma que seja. Lembre-se que um aprendiz é um eterno curioso, e o que mais os curiosos fazem é perguntar coisas. Quando voce deixa de perguntar é porque voce deixou de ser curioso! 
+
+Estas sao algumas:
+
+- Como se chama isto?
+- O que é (palavra estrangeira) ...? ou: O que significa (palavra estrangeira)...?
+- Como se lë isto ...?
+- Está correto (assim) ...?
+- O que ...?
+- Em que ...? A que (horas)...? De que ...?
+- Por que ...?
+- Como ...?
+- Onde ...? De onde ...? Para onde ...?
+- Quando ...? Desde quando ...? Até quando ...?
+- Quem ...?
+- De quem ...? Para quem ...? 
+- Há (tal coisa)? ou: Vocë tem/vende (tal coisa)?
+- Quanto ...? Quantas ...? Quanto custa isto ...?
+- Para que (serve)...?
+
+Nesta parte do aprendizado, é muito importante como saber falar estas palavrinhas úteis porque certamente vocë vai usá-las muito (principalmente no início): "isto, isso, aquilo". Tais palavras se chamam tecnicamente de "pronomes demonstrativos", mas o importante é saber como dizë-las no outro idioma:
+
+- Isto, este, esta (quando a coisa está perto de vocë)
+- Isso, esse, essa (quando está perto da pessoa que conversa)
+- Aquilo, aquele, aquela (longe de vocë e de seu ouvinte)
+
+- Aqui (perto de vocë)
+- Ai (perto de seu ouvinte)
+- Ali, lá (longe de vocës dois, perto de uma terceira pessoa ou local distante).
+
+
+Geralmente, numa conversa informal, quando se usa estas palavras acima, vocë aponta com o dedo ou com um gesto adequado para aquela cultura. Por tanto, ensaie falando com os gestos, para que pareça o mais natural possivel.
+
+
+
+### Saber apresentar-se (falar de vocë mesmo)
+(Tempo estimado: de 2 a 7 dias)
+
+Sempre vocë terá que falar de vocë mesmo e deverá saber fazer isso fluentemente! 
+
+Para isso, é necessário que vocë tenha na "ponta da língua" um "script" básico e rápido sobre sua pessoa, além de familiarizar-se com abordagens, cumprimentos, saudaçoes (formais ou informais). Aqui está uma amostra:
+
+- ...
+- ...
+- ...
+
+Procure gravar um nativo falando estas frases naturalmente (devagar, normal e rápido), e escute-as diversas vezes, a ponto de poder repetí-las até que soe igual, imitando o nativo ao máximo. Näo esqueça de colocar-se à prova, pedindo sempre que alguém avalie sua fala.
+
+Lembre-se que vocë pode recorrer ao artifício de falar de frente para o espelho, e ter sempre em mente que vocë está ensaiando (quando está sozinho), pois aprender a falar (o que se memoriza) é como decorar um texto teatral e representar um papel em público (ou diante de apenas uma pessoa).
+
+A tensäo quando se ensaia sozinho diante do espelho é muito menor que ao estar diante de um mentor (professor) e menos ainda quando estiver numa situaçäo real sem a presença do mentor. Treine sem parar até adquirir a fluëncia a ponto de näo mais depender de nada e ninguém (gravaçöes e mentores).
+
+Aqui, vamos aprender as principais palavras de um idioma para uma conversaçäo: Os chamados pronomes! Säo as 6 palavras principais de uma língua, porque sem elas ninguém vai saber de quem nem a quem se está falando algo.
+
+A primeira pessoa sempre é vocë que fala: EU.
+A segunda é a pessoa que te escuta: VOCË ou TÚ.
+A terceira pessoa de uma conversa é outro alguém de quem os dois estäo conversando: ELE ou ELA.
+
+Mas, as vezes, falamos de mais pessoas (näo apenas de uma, seja eu, vocë ou ele), sendo assim, temos:
+
+NÓS
+VOCËS
+ELES(AS)
+
+É interessante que enquanto o aprendiz esteja iniciando o processo de familiarizar-se com os 6 pronomes, que ele aponte para quem está se referindo. Exemplo: Ao dizer "eu" poe a mäo sobre o próprio peito; ao dizer "vocë", aponta para a frente à pessoa com quem conversa; ao dizer "ele(a)", aponta para o lado (sem olhar para o lado, mas olhando só ao ouvinte que está à sua frente). Isso tem um tremendo efeito positivo na memorizaçäo dos pronomes!
+
+OBS.: Há que tomar-se em conta que em alguns idiomas, há 8 pronomes e näo apenas 6. Isso porque a Segunda Pessoa pode ser tratada formalmente e informalmente, isto é, com quem vocë fala, o tratamento pode ser mais formal e por isso, o "vocë" das frases seja com "mais respeito".
+
+Num nível iniciante do aprendizado, convém que se treine apenas as frases na Primeira e Segunda Pessoa, ou seja, apenas se aprenda a falar de si mesmo e para o ouvinte (eu e vocë). Uma conversa nunca acaba quando os dois que conversam usam o jeito "ouve-responde-agradece-pergunta" de falar. Näo apenas responda e deixe o outro se virar para dar continuidade à conversa, mas responda (agradeça se necessário) e em seguida pergunte: "e vocë?". 
+
+Veja como é importante sabermos perguntar num idioma: "... e vocë?"!
+
+Logo, as outras palavras essenciais para aprender-se nesta fase de apresentaçäo, em que väo surgir perguntas que vocë terá que responder (algumas säo interjeiçöes). Säo estas:
+
+- Sim!
+- Näo.
+- Talvez (sim. Ou näo)
+- Mais ou menos
+- Bom dia, boa tarde, boa noite!
+- Como vai?
+- Tudo bem?
+- É claro! (que sim. Ou: que näo).
+- Entendo!
+- Certo!
+- Perfeito!
+- Ok ("Beleza").
+- Sem problemas!
+- Näo se preocupe!
+- Espero que sim (näo)
+- Sem chance
+- Lamento
+- Eu sinto muito...
+- Consegui!
+- Que bom!
+- Excelente!
+- Licença
+- Desculpe...
+- Desculpe interromper, mas...
+- Uma pergunta: ...
+- Perdäo...
+- Um momento...
+- Prossiga
+- Sério?
+- Nossa!
+- Eu também (näo)!
+- Tomara (que sim. Ou que näo).
+- Acredito que sim (que nao)
+- Possivelmente
+- Oh, Meu Deus!
+- Näo pode ser!
+- Que pena!
+- Cuidado!
+- Ai (que dor).
+- Saúde!
+- Desejo melhoras!
+- Encantado
+- Prazer em conhecë-la(a)!
+- Foi um prazer
+- Com certeza! (certamente)
+- Boa sorte
+- Manda um abraço para ... 
+- Manda lembrança para ...
+- Saúda a Fulana por mim!
+- Vai com Deus
+- Fique bem
+- Bom trabalho
+- Até logo (...a próxima, ... mais)
+- Até amanhä!
+- Nos vemos! (mais vezes... no Domingo...)
+- Adeus!
+
+
+### Como aprender a pedir coisas num novo idioma (V!)
+(Tempo estimado: de 7 a 14 dias)
+
+Depois de ter seu primeiro contato com o idioma, saber fazer perguntas básicas e apresentar-se, é momento de saber como pedir coisas. Isso também faz parte desta etapa de descoberta de um novo idioma.
+
+Normalmente, tanto pedir como mandar depende apenas do tom de voz que se usa na frase. Porém, a frase quase sempre é curta, contendo apenas um verbo no imperativo (o principal na frase) e um substantivo, como em: "Faça uma coisa!" (em que "Faça" é o verbo no imperativo, e "uma coisa" é um substantivo com seu artigo).
+
+E justamente nessa fase, será preciso aprender duas expressöes chaves que säo vitais e apreciadas em qualquer o idioma:
+
+ - Por favor!
+ - Obrigado!
+ 
+Sem estas duas expressöes ninguém poderá dizer que sabe falar um idioma!
+
+Mas para se pedir coisas se pode näo apenas usar frases com o verbo no imperativo, como: "Faça isto, por favor!". Podemos também, pedir as coisas em forma de perguntas (o que faz a comunicaçäo se tornar ainda mais educada e fluente), como por exemplo:
+
+- Por favor, vocë poderia fazer uma coisa?
+
+No exemplo acima, basta vocë trocar o verbo "fazer" por qualquer outro verbo, e "uma coisa" por aquilo que precisa. Exemplos:
+
+- Por favor, vocë poderia me dizer as horas?
+- Por favor, vocë poderia me dar um café?
+- Por favor, vocë poderia enviar esta carta?
+- Por favor, vocë poderia repetir o que vocë disse?
+- Por favor, vocë poderia falar mais devagar?
+- Por favor, eu poderia usar o banheiro?
+
+(Perceba que o último exemplo ao invés de perguntar se o ouvinte pode fazer, vocë pergunta se vocë mesmo pode fazer uma coisa)
+
+Com isso, vocë descobre que para pedir coisas em outro idioma, basta começar com um "por favor" e depois usa um: "vocë poderia..." (ou mesmo "eu poderia"), mais um verbo e um substantivo (nome da 'coisa' que se está pedindo) e pronto, vocë já tem a frase completa!
+
+Portanto, näo importa o idioma, o que jamais vai mudar na maneira de pedir algo é sempre isto:
+
+- Por favor, vocë poderia... ?
+
+E depois, basta ter memorizada uma pequena lista de verbos mais usados e otra lista de nomes de coisas (substantivos) que vocë está acostumado a conviver com elas. A circunstäncia fará o resto!
+
+Näo se preocupe agora com a hipótese de näo saber (ou lembrar) o nome de uma coisa que tenta pedir no momento certo, porque à essa altura vocë já aprendeu a perguntar aquelas perguntas vitais de um idioma, como por exemplo: "Como se chama isto?". E assim, vocë vai desenvolvendo uma comunicaçäo!
+
+Porém, nunca se esqueça de como se fala: "Obrigado(a)!" ou "Muito obrigado(a)!".
+
+O aprendizado de "como pedir coisas" é uma fase muito divertida e leve porque as frases säo muito curtas e extremamente úteis para se aprender. Além disso, o falante terá uma resposta rápida do seu ouvinte, dando-lhe a sensaçäo prazeirosa de que ele realmente está conseguindo falar o novo idioma e que seus ouvintes o estäo compreendendo! Esse é o maior estímulo que um aprendiz de idioma pode ter, muito mais até que o elogio de seu professor!
+
+Além disso, será muito fácil formar frases (de pedido de coisas) porque o formato delas quase sempre é o mesmo, somente mudando a açäo e a coisa desejada.
+
+Assim, nesta fase, se pode aprender uma lista de 50 a 100 verbos e uns 100 substantivos essenciais, conforme o contexto do aprendiz do idioma.
+
+Fiz uma lista de alguns dos principais verbos (usados para pedir coisas no cotidiano geral) que podem servir de exemplo ou mesmo serem substituidos por outros mais adequados ao ambiente do aprendiz:
+
+- Por favor, vocë (eu) poderia...:
+
+Mostrar
+Emprestar
+Abrir
+Fechar
+Dizer
+Explicar
+Indicar
+Passar 
+Vender
+Comprar
+Cobrar
+Levantar
+Segurar
+Ligar
+Desligar
+Ler
+Empurrar
+Puxar
+Olhar
+Ver
+Avisar-me
+Vir
+Ir
+Acompanhar-me
+Seguir
+Levar
+Trocar
+Dar
+Fazer
+Ensinar-me
+Telefonar
+Chamar
+Entrar
+Sair
+Usar
+Comer
+Amarrar
+Soltar 
+Entregar
+Carregar
+Deixar
+Tocar
+Provar
+Pegar
+Tomar
+Ter
+Verificar
+Chegar
+Pedir
+Perguntar
+Responder
+Guardar
+Colocar
+Por
+Tirar
+Retirar
+Aguardar
+Esperar
+Lavar
+Descansar
+Começar
+Terminar
+Enviar
+Mandar
+Consertar
+Trazer
+Dirigir
+Devolver
+Escrever
+Procurar
+Encontrar
+Voltar
+Dar uma sugestäo
+Dar uma dica
+Dar uma informaçäo
+Dar um recado
+Informar-me
+Lembrar
+Esquecer
+Imaginar
+Ficar
+Estar
+Falar
+Pagar
+Prosseguir
+Continuar
+Parar
+Caminhar
+Andar
+Virar
+Acelerar
+Estacionar
+
+Os substantivos podem ser escolhidos conforme o uso frequente do aprendiz. Mas disponibilizo listas de substantivos que estäo na pasta corresponde dentro deste mesmo curso. 
+
+
+Em alguns casos, ao avançar no idioma, vocë vai querer usar mais de dois verbos na frase, por exemplo:
+
+- Por favor, vocë poderia me ajudar a levantar esta caixa?
+- Por favor, vocë poderia me ajudar a por estas compras no carro?
+- Por favor, vocë poderia me dizer onde tomo um taxi?
+
+
+E a medida que o aprendiz se aperfeiçoa no idioma, ou mesmo ao simular situaçöes ainda mais reais, se pode variar o "pedir coisas" da seguinte maneira: O comunicador comenta de sua necessidade e depois pede o que necessita. Como por exemplo:
+
+- Por favor, eu gostaria de pegar um taxi. Vocë poderia me dizer onde eu posso?
+- Por favor, eu gostaria de ir até o centro. Vocë poderia me mostrar como?
+
+Para isso, o formato é este: 
+- Por favor, eu gostaria de ______. Vocë poderia ______?
+
+
+Com isso, descobrimos uma nova palavra-chave, padräo para quando falarmos de preferëncias ou até de necessidades: "gostaria". E podemos usá-la como: "eu gostaria..." (ou "nós gostaríamos...") para comentar sobre algo que "eu" preciso; como também usá-la em forma de pergunta a alguém: "Vocë gostaria de...?", para sugerir coisas a alguém (ou fazer convites).
+
+Frase para sugerir coisas:
+
+- Vocë gostaria de fazer isto?
+
+Acima, vocë substitui o "fazer isto" para um verbo mais substantivo (coisa).
+
+Note que a estrutura da pergunta é muito semelhante com a frase para "pedir coisas", o que muda é apenas o verbo "poderia" para "gostaria", e já näo se usa o "por favor". Vocë, agora, näo está abordando uma pessoa para lhe pedir coisas; mas sugerindo coisas, dando ideias, convidando a alguém com quem já conversa para fazer algo.
+
+Também se pode treinar outras variaçöes com o tempo:
+
+- Vamos fazer isto...?
+- O que vocë acha de fazer isto...?
+- Que tal fazer isto...?
+
+Em todos esses exemplos acima, substitua o "fazer isto..." por um verbo mais um substantivo das listas que aprendemos.
+
+
+
+### Falar um idioma é descrever
 
 Falar um idioma é saber descrever com palavras: Coisas, pessoas, fatos e ideias.
 
